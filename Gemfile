@@ -43,7 +43,7 @@ group :development, :test do
   gem "brakeman", require: false
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
-  gem "rspec-rails", "~> 7.0.0"
+  gem "rspec-rails", "~> 7.1.0"
   gem "factory_bot_rails", "~> 6.4"
   gem "simplecov", "~> 0.22.0", require: false
   gem "simplecov-json", "~> 0.2.3", require: false
