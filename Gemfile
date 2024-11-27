@@ -47,5 +47,5 @@ group :development, :test do
   gem "factory_bot_rails", "~> 6.4"
   gem "simplecov", "~> 0.22.0", require: false
   gem "simplecov-json", "~> 0.2.3", require: false
-  gem "rubocop", "~> 1.68", require: false
+  gem "rubocop", "~> 1.69", require: false
 end
